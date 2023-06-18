@@ -1,0 +1,12 @@
+node_modules/
+.env
+keystore/**
+!keystore/generator.sh
+!keystore/admin.txt
+package-lock.json
+public/images/*
+public/imagesOfMessages/*
+cert/*
+.gitlab-ci.yml
+cert.pem
+key.pem
